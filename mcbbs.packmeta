@@ -1,0 +1,724 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "没有朋友整合包",
+  "version": "Release1.1.0",
+  "author": "yangyang8002",
+  "description": "Fabric更新，需迁移存档",
+  "fileApi": "",
+  "url": "www.301219.xyz:5244",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21"
+    },
+    {
+      "id": "fabric",
+      "version": "0.16.10"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "mods/accessories-fabric-1.1.0-beta.6+1.21.1.jar",
+      "hash": "a4374d171bad9ee29e45612990649cf742a27ef3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/alloy-forgery-2.4.1+1.21.jar",
+      "hash": "9f7e0f14c5c61a01f11ebec9b62dc1cf3397ece2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/amendments-1.21-1.2.22-fabric.jar",
+      "hash": "901055ea9304f4f11f598da94dce4ef22f2f233c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/architectury-13.0.8-fabric.jar",
+      "hash": "e71346a43c563e5784580dd096338acfb45f49d4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/azurelibarmor-fabric-1.21-2.3.2.jar",
+      "hash": "3a46a69013a69375bc20b16458166855df2222a7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/balm-fabric-1.21.1-21.0.20.jar",
+      "hash": "6960b917590d29e949646c2ae4a9470e4000adb7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/bclib-21.0.13.jar",
+      "hash": "6a46eb6a8fb9cc0adb878b0ad12555834078c2b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/BEB-FABRIC-1.21-1.0.0.jar",
+      "hash": "5194bf57a79bc8e6d6885429fe7ac4bf97f289cd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "hash": "5d82342a2df53fd6df712bfdd583a811572918a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/collective-1.21.1-7.87.jar",
+      "hash": "2a38c6b5d5d90c7c74bbf81497e17a722ee826a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Controlling-fabric-1.21-18.0.4.jar",
+      "hash": "3641b08bff137fbdcbf6432d92a0b54aab3cfed8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/CreativeCore_FABRIC_v2.12.9_mc1.21.jar",
+      "hash": "7e1e6c86963a10370980f54c7a1b904baf55a178",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/enclosure-fabric-0.4.5+1.21.jar",
+      "hash": "2d2fd3d71d0b9189bd3ba4789b967f7becfa990a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/entangled-1.3.20-fabric-mc1.21.jar",
+      "hash": "25f979d16eb8be84825d3dbc1513fc52f85215e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Explorify v1.6.2 f10-48.jar",
+      "hash": "f04907ed21f6239f90031cfe1d79b43e3ef76cb9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fabric-0.15.11-1.21_freecam_by_kapiteon-1.1.0.jar",
+      "hash": "32c37423534ff40d049d60fce58273b30b344d5c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fabric-api-0.102.0+1.21.jar",
+      "hash": "43035a1c6f506285a9910bc8038d1b1b925f8dd1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
+      "hash": "54cd3900a904b81bd24c4a35b6577a2ac197b51a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/FastMinecart-v1.0.2.jar",
+      "hash": "5cc64b957b5cb1f06b7029dc405a71155ed10bf8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar",
+      "hash": "7dfdfef79835d7d8d6237b20af1a2d7f29561454",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ftb-library-fabric-2100.1.4.jar",
+      "hash": "221695666b70fa00c3596f45152605bc2f485d89",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fullbrightnesstoggle-1.21.1-4.2.jar",
+      "hash": "74d431960fbecd03814f9557fbd8af75cb9614ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21-4.5.8.jar",
+      "hash": "a326a14a6eab1b82bbcf7fb4fd27b9655ffb9d1b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/IMBlocker-5.0.2-1.20.6+.jar",
+      "hash": "0023646959d5b7ddf4c2892b5d469398f40e88cd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/iris-fabric-1.8.0+mc1.21.1.jar",
+      "hash": "261f47a680c4d7afbff3d38c7bd9c01dd2d5fc64",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/JustEnoughResources-Fabric-1.21-1.6.0.11.jar",
+      "hash": "9b9c19bc929a1af9acc196c3c0f1cc8b37d9098d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lambdynamiclights-3.1.4+1.21.1.jar",
+      "hash": "fdf2773db93fdfe6c49fb096b9976f85e0e8e28f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/language-reload-1.7.1+1.21.1.jar",
+      "hash": "0e1e0862a2c4a9f1db19589992b0734f6f196aab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lavender-0.1.14+1.21.jar",
+      "hash": "faef4c20537d10c986d212f223ff81a83def868e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/libIPN-fabric-1.21-6.1.1.jar",
+      "hash": "6f3f8c5d2a6da09ae158788dae0801ae469b5cab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/litematica-server-paster-v1.3.3-mc1.21.1.jar",
+      "hash": "9fb887c2461597016e6b00890d6583a01c3a8baf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/litemoretica-1.2.5+mc1.21.1.jar",
+      "hash": "d945ccecab72ba0cd063de7f9994e733e01a5fce",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/malilib-fabric-1.21-0.21.1.jar",
+      "hash": "26da64471c66bf9df7ea4de51e3da02c32b6fe07",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/McBot-fabric-1.21-2.2.1.2.jar",
+      "hash": "7e6f02e913724313cb6312edf229ff27aedb0d0a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/modernfix-fabric-5.19.1+mc1.21.jar",
+      "hash": "a0fd5799e698697232d75e7291276218198ea80a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/moonlight-1.21-2.17.17-fabric.jar",
+      "hash": "17297f6f76b0d69db612dc16be1b1f01dbf664d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/owo-lib-0.12.15+1.21.jar",
+      "hash": "6360554402859113fdd72abdb8ff9fd5d6c731ca",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/placeholder-api-2.4.1+1.21.jar",
+      "hash": "5f61f50e36f1f957dbb87eda02da95d847b4a943",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/player-animation-lib-fabric-2.0.0-alpha1+1.21.jar",
+      "hash": "d1a1af618efc142dcd337ebda3c34bd8119570a8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/pointblank-fabric-1.21-1.7.8.jar",
+      "hash": "a76e58f3ed42a24c8ff912bbd55928539cef9a65",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.0.28-1.21-Fabric.jar",
+      "hash": "7fd60a18d29d70a08c67f916f9e4d950b30d66f1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/resourcefulconfig-fabric-1.21-3.0.8.jar",
+      "hash": "4887ec03300fc498b37ec361810d659d74702ade",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/resourcefullib-fabric-1.21-3.0.11.jar",
+      "hash": "a9c2ef9eb192fcb31eb9e4f38eb6ba0841cddee7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Searchables-fabric-1.21-1.0.5.jar",
+      "hash": "e73b9d75f65446fa329939156db6d9f73d3cca40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sit!-1.2.0.8+1.21-1.21.1.jar",
+      "hash": "9e95aaa1e60e5ad01632765f72b6903dea52497c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/spell_power-1.0.5+1.21.1.jar",
+      "hash": "347897d2044a6eb2442bfcfd3645e6662e8fe429",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/structure_pool_api-1.1.3+1.21.1.jar",
+      "hash": "99de1c6aeb8a9909cb238b91b3e3eb62d8ec605f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+      "hash": "8427e42f1db8ea7b4b6c21cc94bfcfa398f0ff63",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.17c-fabric-mc1.21.jar",
+      "hash": "6a7e33131d1747c50d2485695eefa2575f6a5eb2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/supplementaries-1.21-3.0.33-beta-fabric.jar",
+      "hash": "8871d826ea125bd5b86458cb5572f954016e152d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Terralith_1.21.x_v2.5.6.jar",
+      "hash": "4387245232dd9d6f5e7a06b222cb0fa404a6503f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/trinkets-3.10.0.jar",
+      "hash": "f54756f938c7c273713b9f97d4a987eec551e892",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/tweakeroo-fabric-1.21-0.21.52.jar",
+      "hash": "63c14c4a08cacd4c7f421f1d898c17942f5f6cf8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.1-2.5.26.jar",
+      "hash": "ca4d37693cd2a5c6427b7388ee84045c3dfd63a8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/worldweaver-21.0.13.jar",
+      "hash": "01e7196395386bbddc3ff7d47fe37869a850cecd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/xpstorage_trinkets-1.0.2+1.21.jar",
+      "hash": "78ec001bbb45ae4c2c3fcf9accba2fa29ae7bedb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/xp_storage-1.6+1.21.jar",
+      "hash": "6a3acb4474734f4c450bec894a95ae284f2667b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/YetAnotherConfigLib-3.6.1+1.21-fabric.jar",
+      "hash": "d3be53c700591dc76dc504a3640f9b4af24af178",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.21-fabric-19.5.0.33.jar",
+      "hash": "dc0c17f98fe518b75aa6ba4b4e57957e1d770073",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Xaero的世界地图] XaerosWorldMap_1.39.0_Fabric_1.21.jar",
+      "hash": "d106e7d0d667691b75f309edcfa1d773c166c6e4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Xaero的地图增强] XaeroPlus-2.18+fabric-1.21-WM1.38.8-MM24.2.1.jar",
+      "hash": "8e1e579f7666ced460542b6fa7713513dc43c0ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Xaero的小地图] Xaeros_Minimap_24.6.1_Fabric_1.21.jar",
+      "hash": "7002f3d1dbfca2b409995abc2c4d696438f16492",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[一键背包整理Next] InventoryProfilesNext-fabric-1.21-2.0.10.jar",
+      "hash": "7cccaeced2803977f06084f1b07b4095cc6a45cd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[万用皮肤补丁] CustomSkinLoader_Fabric-14.21.2.jar",
+      "hash": "b8723b0d5098efac0ad32435dcd02553b803d953",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[不死图腾插槽] charmofundying-fabric-9.1.0+1.21.1.jar",
+      "hash": "cf1478a22e4aa06c3ce1728ad2713a8128ceeea1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[传送石碑／指路石] waystones-fabric-1.21.1-21.1.5.jar",
+      "hash": "de69565da6eaeb7642099604b603aa59754e7f14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[农夫乐事：重织] FarmersDelight-1.21-2.1.10+refabricated.jar",
+      "hash": "0453001827249a8db2c4608bef97df994e1e1853",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[凤梨乐事] pineapple_delight-1.0.0.jar",
+      "hash": "b23921d3365e2c2de4c801ba0d23bbd83b12d02b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[动态FPS] dynamic-fps-3.7.6+minecraft-1.21.0-fabric.jar",
+      "hash": "5a1bc0630be861c9dac83c0be7a3ea0ccc4e70af",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[字符魔法师] scriptor-1.3.3-1.21-fabric-sgd.jar",
+      "hash": "3da6cf9ad1f18baa087af49cd760319108980e6e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[存储乐事] storagedelight-24.09.11-1.21-fabric.jar",
+      "hash": "b8095ac2524781984f5cff792f56655657737282",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[幸运方块] LuckyBlocks-1.5.jar",
+      "hash": "b7234a512c09b8b4941e4fcaf614c73600f71b70",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[戈伯2] Gobber2-Fabric-1.21-2.10.24.jar",
+      "hash": "616dbed40b204d590352e5f6ee4c1c30aa5e3827",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[投影] litematica-fabric-1.21-0.19.51.jar",
+      "hash": "6886ded875009091488f77be816a466aa101c052",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[投影打印机] litematica-printer-1.21-3.5.0-sakura.4.jar",
+      "hash": "dab38e9218c991b715280be4c0fe6f0462b409af",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[搬运] carryon-fabric-1.21-2.2.1.jar",
+      "hash": "511cdbcbbe13d1b43111f007099e6b104e7dc494",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[旷野之息高塔 ：再重制] totw_modded-fabric-1.21-1.0.5.jar",
+      "hash": "b6a5b1af7138a9bbb32d792d869f7f2ebf3e1bc6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[更多的不死图腾] MoreTotems-fabric-1.21-2.20.1.jar",
+      "hash": "331cd4bd8b049217c15cb52dffe5b5ab4ed93672",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[更好的下界] better-nether-21.0.11.jar",
+      "hash": "c6dcee6fd46d25d0bf2246549efd3da96ce45769",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[更好的末地] better-end-21.0.11.jar",
+      "hash": "625f4340bd9ab67a08130a4167fc6a01777ab075",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[杂七杂八的东西] things-0.4.2+1.21.jar",
+      "hash": "51d409927b203bada31ddb59becd7e321363d585",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[模组菜单] modmenu-11.0.3.jar",
+      "hash": "6213120772192040a0aeb5c7cfe330c068605b1f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[永恒星光] eternalstarlight-0.1.17+1.21.1+fabric.jar",
+      "hash": "4307527e73fc95320b6806b0afb1769c070fe822",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[法术引擎] spell_engine-1.1.2+1.21.1.jar",
+      "hash": "feec7c84f04a7d893350a4756d07b7705ad21b9a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[火花] spark-1.10.109-fabric.jar",
+      "hash": "eff42cbeee6fe9a7f3c57031c23200256366dcd1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[物品物理掉落] ItemPhysic_FABRIC_v1.8.0_mc1.21.jar",
+      "hash": "a3d1431539cda2472f381ecfecda86ce5cb913af",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玉 🔍] Jade-1.21-Fabric-15.1.5.jar",
+      "hash": "606aadc3eec694e2f087eda6a33384e98cc7c3d0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[现代化修复] modernfix-fabric-5.19.1+mc1.21.jar",
+      "hash": "a0fd5799e698697232d75e7291276218198ea80a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[矿石作物／魔种之咏 IF版] croparia-if-1.21.1-fabric-4.5.4-hotfix-2.jar",
+      "hash": "362186a82a8b09695d407921efdd85a3c1b019e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[神话金属] mythicmetals-0.20.2+1.21.jar",
+      "hash": "296bab308880a1bd6e4ef84ae071d0e8c5391bed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[种子乐事] SeedDelight-Fabric-1.21-1.0.1-Fix.jar",
+      "hash": "0bd681c89c9a85f8195f2b871c7e17c0fd652c98",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[科技复兴] TechReborn-5.11.12.jar",
+      "hash": "3aba21e7d75b377ae348c41812f9f136847c3be8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[符文] runes-1.0.3+1.21.1.jar",
+      "hash": "efd098d6a1fe66d24dd01754759d815dcc92e252",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[简易铁砧] EasyAnvils-v21.0.5-1.21-Fabric.jar",
+      "hash": "6bd45511217641fb229b1e0ef71fd64f9a8d30a5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[简易附魔台] EasyMagic-v21.0.4-1.21-Fabric.jar",
+      "hash": "928e4e3bea0c838b724241977dc211b2aea535f7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[经验机制改革] Clumps-fabric-1.21-18.0.0.2.jar",
+      "hash": "3c18b0e809d7bef6292f56ca3fa7d9da869dc468",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[腐肉换皮革] jrftl-1.21-fabric-1.8.0.jar",
+      "hash": "62253a669fd124f3777111771a0052f6fdb0c97e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[自动汉化更新] I18nUpdateMod-3.6.0-all.jar",
+      "hash": "a738aaeb711278b763599bf8d09ff2ed87d763ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[苹果皮] appleskin-fabric-mc1.21-3.0.6.jar",
+      "hash": "97452cfadfde1f8f8c67838643019eabafa58fbb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[藤] fuji-6.0.0-2f47a5d25d-mc1.21.jar",
+      "hash": "b933af3b706c2060c5c412a5d8e176a9575a73bb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[连锁破坏] ftb-ultimine-fabric-2100.1.0.jar",
+      "hash": "c2eaca88ef70f95360d8044392424aa91d14bbe2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[重生核心] RebornCore-5.11.12.jar",
+      "hash": "44d74fbbc4539c1e8c8273f5efb8f3dd045072dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[金属储物桶] metalbarrels-fabric-1.21-4.jar",
+      "hash": "baa9749ae5e4c05cf995d4b31de04c22ab68859a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[钠 · 土径阴影] sodium-shadowy-path-blocks-fabric-4.0.0-beta.2.jar",
+      "hash": "c3633641fff6fd962ec2c9a91822894230c5ff76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[钠 · 扩展] sodium-extra-fabric-0.6.0-beta.3+mc1.21.1.jar",
+      "hash": "d5ad3bbc8a75fc2e8f3d957a85aa05f3e8b95fd0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[钠] sodium-fabric-0.6.0-beta.2+mc1.21.1.jar",
+      "hash": "7a94dda82ffd1fe24cd1cacad70eb89dbe564ea6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[铁砧修复] anvilrestoration-1.21.1-2.3.jar",
+      "hash": "b48b47d2fd6ee6c87f95d273cafcdc3b3f129342",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[铟] indium-1.0.35+mc1.21.jar",
+      "hash": "1bf4b5db91f4e6d7a4f94fe2e96525d22df1cacb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[锂] lithium-fabric-mc1.21-0.13.1.jar",
+      "hash": "1f983f879bb88fff9afa287e8d6a4a2f8df79e01",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[预生成区块] Chunky-1.4.16.jar",
+      "hash": "2b68d2bd507cd9f45fdd637ba32e8a47de6bda35",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[香芋乐事] ubesdelight-fabric-1.21.1-0.2.3.jar",
+      "hash": "e652ba7a2d95cb7be976e9eeac08065d7b8d254b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔法师] wizards-2.1.0+1.21.1.jar",
+      "hash": "b809e7983c12536337f9f01dde9f3a70008effc4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.21.zip",
+      "hash": "a706feccc8d5c818f05516e0354f54b2c51422b9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Xray_Ultimate_1.21_v5.0.3.zip",
+      "hash": "50c21eefedff872e158fed700cb28732209e1e1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.09.zip",
+      "hash": "cd92bf706a1347a2d2943b14391ffbe1233415bc",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 3103,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}

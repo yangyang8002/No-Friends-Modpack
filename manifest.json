@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "没有朋友整合包",
+  "version": "Release1.1.0",
+  "author": "yangyang8002",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.21",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.10",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}
